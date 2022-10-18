@@ -26,11 +26,23 @@ top: 16px;
 left: 10px;
 }
 
+/** formattazione testo */
 span{
 font-size: 60px;
 position: relative;
 top: 12px;
 left: 73px;
 }
+/** fine header */
 
+/** inizio nav */
+.nav-continer{
+    width: 50%;
+    background: red;
+    margin: 38px 28%;
+    padding: 1%;
+}
 
+nav{
+
+}
