@@ -29,6 +29,7 @@ header {
 
 /** formattazione testo */
 span {
+    display: inline-block;
     font-size: 60px;
     position: relative;
     top: 12px;
