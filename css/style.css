@@ -7,8 +7,9 @@
 
 body{
     width: 100%;
-    height: 100vh;
+    height:750px;
     background-color: #f6f8f9;
+  
 }
 
 /** inizio header */
@@ -23,7 +24,7 @@ header{
 width: 64px;
 position: absolute;
 top: 16px;
-left: 10px;
+left: 154px;
 }
 
 /** formattazione testo */
@@ -31,18 +32,42 @@ span{
 font-size: 60px;
 position: relative;
 top: 12px;
-left: 73px;
+left: 215px;
 }
 /** fine header */
 
 /** inizio nav */
 .nav-continer{
     width: 50%;
-    background: red;
-    margin: 38px 28%;
-    padding: 1%;
+    background-color: white;
+    margin: 22px 28%;
+    padding: 10px 45px;
+    border-radius: 10px;
 }
 
-nav{
+.button1{
+    background-color: 
+    #47adf1;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
 
+.button2{
+    background-color:white;
+    color: #6d7174aa;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 13px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 2px solid #6d7174aa;
 }
