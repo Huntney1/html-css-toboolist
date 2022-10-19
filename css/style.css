@@ -29,7 +29,7 @@ header {
 }
 
 /** formattazione testo */
-.text_logo {
+#text-logo {
     display: inline-block;
     font-size: 60px;
     /* position: relative;
@@ -98,6 +98,7 @@ ul {
 
 .tag{
     padding: 5px 10px;
+    margin-left: 8px;
     border-radius: 10px;
     font-size: 12px;
     color: white;
