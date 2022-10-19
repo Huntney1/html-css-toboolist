@@ -29,7 +29,7 @@ header {
 }
 
 /** formattazione testo */
-span {
+.text_logo {
     display: inline-block;
     font-size: 60px;
     /* position: relative;
@@ -95,6 +95,33 @@ h2::before {
 ul {
     list-style: none;
 }
+
+.tag{
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-size: 12px;
+    color: white;
+}
+
+.tag-type-1{
+    background-color: #47adf1;
+}
+.tag-type-2{
+    background-color: rgba(166, 49, 166, 0.835);
+}
+.tag-type-3{
+    background-color: green;
+}
+.tag-type-4{
+    background-color: orange;
+}
+.tag-type-5{
+    background-color: pink;
+}
+.tag-type-6{
+    background-color: rgb(144, 226, 20);
+}
+
 
 /** footer */
 footer {
